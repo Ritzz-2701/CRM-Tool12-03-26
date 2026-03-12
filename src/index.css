@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-crm-red: #C51114;
+  --color-crm-darkred: #A80E10;
+  --color-crm-lightred: #EF4444;
+  --color-crm-bg: #FEF2F2;
+  --color-crm-black: #121212;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  color: #121212;
+  background-color: #FEF2F2;
+}
